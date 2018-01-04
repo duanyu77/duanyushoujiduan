@@ -10,10 +10,10 @@
     text-align: center;
 }
 .biaoti img{
-    width: 15%;
+    width: 5%;
     position: absolute;
-    left: 0;
-    top: -1.5%;
+    left: 0.1rem;
+    top: 0.8%;
 }
 .biaoti span{
     font-size: 0.6rem;
