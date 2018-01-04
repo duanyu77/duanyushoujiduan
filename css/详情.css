@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.style_layout{
+        width: 6.4rem;
+
+}
+.biaoti{
+    width: 6.4rem;
+    height:0.8rem;
+    color:#616161 ;
+    background:#f9f9f9;
+    text-align: center;
+}
+.biaoti img{
+    width: 15%;
+    position: absolute;
+    left: 0;
+    top: -1.5%;
+}
+.biaoti ul{
+    width: 3rem;
+    margin: auto;
+    height: 0.8rem;
+}
+.biaoti ul li{
+    float: left;
+    font-size: 0.4rem;
+    margin-left: 0.2rem;
+    text-align: center;
+    margin-top: 0.1rem;
+}
+.img{
+    width: 6.4rem;
+}
+.img img{
+    width: 100%;
+}
+.main{
+    width: 6.4rem;
+    font-size: 0.23rem;
+   color:  #232326;
+    height: 3rem;
+    background: #fff;
+}
+#left span{
+    width: 0.1rem;
+    height: 0.1rem;
+    background: red;
+    color: white;
+    border: 1px solid red;
+    border-radius: 0.1rem;
+    margin-right: 0.1rem;
+}
+#left{
+    width: 5rem;
+    margin-left:0.2rem;
+    margin-top: 0.1rem;
+    line-height: 0.4rem;
+    float: left;
+    height: 1.17rem;
+}
+#right{
+    width: 1rem;
+    float: right;
+    height:1.17rem ;
+}
+#right img{
+    width: 60%;
+}
+.bottom{
+    width: 6.4rem;
+    height: 1.1rem;
+   padding-top: 0.2rem;
+    clear: left;
+    padding-left: 0.2rem;
+    line-height: 0.3rem;
+}
+.bottom p{
+    width: 6rem;
+    height: 1.1rem ;
+    clear: left;
+}
+.bottom span{
+    color: red;
+    text-decoration: underline red ;
+}
+#foot{
+    width: 6.4rem;
+}
+#span1{
+    margin-left: 0.2rem;
+    color: red;
+    font-size: 0.35rem;
+}
+#span2{
+    float: right;
+    margin-right: 0.4rem;
+    width: 1rem;
+    height: 0.4rem;
+    border: 1px solid #bfbfbf;
+    text-align: center;
+    color: #686868;
+}
+.main_1{
+    width: 6.4rem;
+    font-size: 0.23rem;
+    background: white;
+    margin-top: 0.2rem;
+    height: 2rem;
+
+}
+.main_1_head{
+    width: 6.4rem;
+    height: 0.5rem;
+    border-bottom: 1px solid #bfbfbf;
+    line-height: 0.5rem;
+}
+.main_1_head span{
+    padding-right:0.15rem;
+    padding-left: 0.1rem;
+    color: #686868;
+}
+.main_1_foot{
+    width: 6.4rem;
+    line-height: 0.45rem;
+}
+.main_1_foot label{
+   color:  #686868;
+    padding-left: 0.1rem;
+    padding-right: 0.2rem;
+}
+.main_1_foot span{
+    width: 0.3rem;
+    height: 0.3rem;
+    border: 1px solid red;
+    color: red;
+    margin-right: 0.2rem;
+}
+.main_2{
+    width: 6.4rem;
+    height: 1.2rem;
+    font-size: 0.23rem;
+    background: white;
+    line-height: 0.39rem;
+    margin-top: 0.2rem;
+}
+.main_2 label{
+    color: #686868;
+    padding-right: 0.2rem;
+    padding-left: 0.1rem;
+}
+.main_3{
+    width: 6.4rem;
+    font-size: 0.23rem;
+    margin-top: 0.2rem;
+    background: white;
+    line-height: 0.38rem;
+}
+.main_3 span{
+    margin-right: 0.2rem;
+    margin-left: 0.1rem;
+    color: #686868;
+}
+.main_3_foot {
+    width: 6.4rem;
+    font-size: 0.2rem;
+    margin-top: 0.1rem;
+    height: 2.3rem;
+
+
+}
+.main_3_foot img{
+  width: 0.4rem;
+    height: 0.5rem;
+    margin-right: 0.1rem;
+    vertical-align: bottom
+}
+
+.main_3_foot ul li{
+    float: left;
+    text-align: center;
+   line-height: 0.3rem;
+    margin-left: 0.1rem;
+}
+footer{
+    width: 6.4rem;
+    font-size: 0.2rem;
+    height: 0.9rem;
+    background: white;
+    position: fixed;
+    bottom: 0;
+    margin-top:0.2rem ;
+}
+footer ul{
+    width:6.4rem;
+    height: 0.9rem;
+    margin-left: 0.1rem;
+
+}
+footer img{
+    width: 0.6rem;
+    height: 0.5rem;
+}
+footer ul li {
+    float: left;
+    width: 0.8rem;
+    height: 0.9rem;
+    text-align: center;
+    font-size: 0.25rem;
+}
+footer ul .li2 {
+    width:2rem;
+    height: 0.9rem;
+background: #ffb03f;
+    text-align: center;
+    font-size: 0.35rem;
+    color: white;
+    line-height: 0.8rem;
+}
+.li1{
+    width:2rem;
+    height: 0.9rem;
+    text-align: center;
+   background: #f23030;
+    font-size: 0.35rem;
+    color: white;
+    line-height: 0.8rem;
+}
