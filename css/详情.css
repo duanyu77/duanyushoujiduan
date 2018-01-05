@@ -8,17 +8,17 @@
 }
 .biaoti{
     width: 6.4rem;
-    height:0.8rem;
-    color:#616161 ;
-    background:#f9f9f9;
+    height: 0.6rem;
+    color: #616161;
+    background: #f9f9f9;
     text-align: center;
+    padding: 0.1rem;
 }
 .biaoti img{
-    width: 5%;
+    width: 3%;
     position: absolute;
-    left: 0.1rem;
-    top: 0.8%;
-
+    left: 0.2rem;
+    top: 1.3%;
 }
 .biaoti ul{
     width: 3rem;
@@ -27,10 +27,9 @@
 }
 .biaoti ul li{
     float: left;
-    font-size: 0.4rem;
-    margin-left: 0.2rem;
+    font-size: 0.3rem;
+    margin-left: 0.3rem;
     text-align: center;
-    margin-top: 0.1rem;
 }
 .img{
     width: 6.4rem;
